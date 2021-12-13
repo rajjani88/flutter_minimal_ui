@@ -1,16 +1,13 @@
 # flutter_minimal_ui
 
-A new Flutter project.
 
-## Getting Started
+A new Flutter project. This is a UI tutorial you can find video tutorial on https://youtu.be/JGIcbDZj4Ug
+Support me :) at https://www.buymeacoffee.com/rajjani
 
-This project is a starting point for a Flutter application.
+Contact me or follow me
+facebook : https://www.facebook.com/rajjani8/?ref=pages_you_manage
+youtube :  https://www.youtube.com/channel/UClqD9_F5sCJN1st7tl30Q2A
+github : https://github.com/rajjani88
+instagram : https://www.instagram.com/_rajjani/
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
